@@ -11,6 +11,10 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+I am building a retrieval system for University of Washington professor reviews collected from Rate My Professor. My system allows students to search real student feedback about teaching quality, grading difficulty, workload, and lecture style.
+
+This knowledge is valuable because official university pages do not include real student experiences. These reviews are scattered, unstructured, and difficult to search manually, which makes it hard for students to compare professors effectively.
+
 ---
 
 ## Documents
@@ -18,18 +22,19 @@
 <!-- List your specific sources: URLs, subreddit names, forum threads, or file descriptions.
      Aim for at least 10 sources that together cover different subtopics or perspectives within your domain. -->
 
-| # | Source | Description | URL or location |
-|---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| #  | Source            | Description          | URL or location                                                                                          |
+| -- | ----------------- | -------------------- | -------------------------------------------------------------------------------------------------------- |
+| 1  | Nicole McNichols  | UW professor reviews | [https://www.ratemyprofessors.com/professor/1795617](https://www.ratemyprofessors.com/professor/1795617) |
+| 2  | Terry Swanson     | UW professor reviews | [https://www.ratemyprofessors.com/professor/106034](https://www.ratemyprofessors.com/professor/106034)   |
+| 3  | Samantha Robinson | UW professor reviews | [https://www.ratemyprofessors.com/professor/2411924](https://www.ratemyprofessors.com/professor/2411924) |
+| 4  | Natalie Naehrig   | UW professor reviews | [https://www.ratemyprofessors.com/professor/2044016](https://www.ratemyprofessors.com/professor/2044016) |
+| 5  | Elba Garza        | UW professor reviews | [https://www.ratemyprofessors.com/professor/2836919](https://www.ratemyprofessors.com/professor/2836919) |
+| 6  | Leta Beard        | UW professor reviews | [https://www.ratemyprofessors.com/professor/579397](https://www.ratemyprofessors.com/professor/579397)   |
+| 7  | Kevin Lin         | UW professor reviews | [https://www.ratemyprofessors.com/professor/2574020](https://www.ratemyprofessors.com/professor/2574020) |
+| 8  | Andrew Loveless   | UW professor reviews | [https://www.ratemyprofessors.com/professor/747076](https://www.ratemyprofessors.com/professor/747076)   |
+| 9  | Aurel Bulgac      | UW professor reviews | [https://www.ratemyprofessors.com/professor/1084125](https://www.ratemyprofessors.com/professor/1084125) |
+| 10 | Toby Smith        | UW professor reviews | [https://www.ratemyprofessors.com/professor/361833](https://www.ratemyprofessors.com/professor/361833)   |
+
 
 ---
 
@@ -39,6 +44,7 @@
      State your chunk size (in tokens or characters), overlap size, and explain why those
      numbers fit the structure of your documents.
      A review-heavy corpus warrants different chunking than a long FAQ. -->
+     
 
 **Chunk size:**
 
