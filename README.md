@@ -225,7 +225,9 @@ Debug suggestions explaining that the issue was likely caused by mismatched data
 - *What I changed or overrode:*
 I updated how I handled the retrieved results in my code so the context was built correctly. I also fixed how I accessed fields from the retrieval output to prevent runtime errors.
 
-Demo
+---
+
+## Demo
 <!-- Paste your demo video link here (YouTube unlisted, Google Drive, or Panopto) -->
 Demo video:
 (https://www.loom.com/share/86135ea6d6954b77a5471eac4487532c)
